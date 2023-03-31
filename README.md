@@ -23,7 +23,7 @@ SDG 15: Life on Land - The app can help reduce the negative impact of cotton pla
 # Getting Started
 To get started with the app, follow these steps:
 
-1) Clone the repository to your local machine using < git clone -b master https://github.com/username/repo.git >
+1) Clone the repository to your local machine using  https://github.com/TanzeelAbbas/Cotton_Plant_Disease_Detector_Mobile_Application.git 
 2) Open the project in Android Studio
 3) Build and run the app on an Android device or emulator
 
