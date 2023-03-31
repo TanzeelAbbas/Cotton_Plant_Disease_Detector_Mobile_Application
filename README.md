@@ -1,7 +1,7 @@
 # Cotton_Plant_Disease_Detector_Mobile_Application
 This is a mobile application for detecting cotton plant diseases using machine learning techniques. The app uses the device's camera to capture an image of the cotton plant, and then uses a CNN model to identify the disease.
 
-You can find tensorflow model code file here 
+You can find tensorflow model code file here https://github.com/TanzeelAbbas/DL_Files/blob/main/Cotton_Plant_Disease_Detection_Model_Code.ipynb
 
 # UN Sustainable Development Goals
 The Cotton Plant Disease Detector app can contribute to several of the United Nations Sustainable Development Goals (SDGs), including:
