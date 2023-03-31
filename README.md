@@ -1,6 +1,8 @@
 # Cotton_Plant_Disease_Detector_Mobile_Application
 This is a mobile application for detecting cotton plant diseases using machine learning techniques. The app uses the device's camera to capture an image of the cotton plant, and then uses a CNN model to identify the disease.
 
+You can find tensorflow model code file here 
+
 # UN Sustainable Development Goals
 The Cotton Plant Disease Detector app can contribute to several of the United Nations Sustainable Development Goals (SDGs), including:
 
@@ -21,10 +23,10 @@ SDG 15: Life on Land - The app can help reduce the negative impact of cotton pla
 4) Display information about the detected disease in multiple Langauges
 
 # Getting Started
-To get started with the app, follow these steps:
+how to run a cotton plant disease detector application using TensorFlow Lite model in Android Studio with Java language. Here are the steps you can follow:
 
-1) Clone the repository to your local machine using  https://github.com/TanzeelAbbas/Cotton_Plant_Disease_Detector_Mobile_Application.git 
-2) Open the project in Android Studio
+1) Clone or download the repository to your local machine using  https://github.com/TanzeelAbbas/Cotton_Plant_Disease_Detector_Mobile_Application.git 
+2) Open Android Studio and select "Open an existing Android Studio project". Navigate to the directory where you downloaded the project and select the project's root folder. Wait for the project to build and sync
 3) Build and run the app on an Android device or emulator
 
 # Dependencies
